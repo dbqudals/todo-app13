@@ -18,6 +18,6 @@ spec:
       - name: ecr-secret
       containers:
       - name: todo-app13
-        image: 121531024010.dkr.ecr.ap-northeast-2.amazonaws.com/todo-app13:91bcfe2
+        image: 121531024010.dkr.ecr.ap-northeast-2.amazonaws.com/todo-app13:2217a0a
         ports:
         - containerPort: 5000
